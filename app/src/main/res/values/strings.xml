@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MojTest</string>
+    <string name="opis_aplikacji">Opis Aplikacji</string>
+    <string name="pogoda">Pogoda</string>
+    <string name="mail">chrapowicz.marcin@gmail.com</string>
+    <string name="brac1ak">Brac1ak</string>
+    <string name="zdjecia">Zdjecia</string>
+</resources>
