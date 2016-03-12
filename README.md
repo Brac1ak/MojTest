@@ -1,0 +1,3 @@
+# MojTest
+
+Aplikacja bedzie dzialac 
