@@ -17,5 +17,9 @@
         <item
             android:id="@+id/navigation_view_main_zdjecia"
             android:title="@string/zdjecia" />
+
+        <item
+            android:id="@+id/navigation_view_main_ulubione"
+            android:title="@string/ulubione"/>
     </group>
 </menu>

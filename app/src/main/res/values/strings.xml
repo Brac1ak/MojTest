@@ -5,4 +5,21 @@
     <string name="mail">chrapowicz.marcin@gmail.com</string>
     <string name="brac1ak">Brac1ak</string>
     <string name="zdjecia">Zdjecia</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="bialystok">Bialystok</string>
+    <string name="ulubione">Ulubione</string>
+    <string name="time_12_pm">12:00 PM</string>
+    <string name="light_rain">LIGHT RAIN</string>
+    <string name="pogoda_na_dzis">Pogoda na dzis :</string>
+    <string name="temperatura">TEMPERATURA :</string>
+    <string name="temperatura_max">TEMPERATURA MAX:</string>
+    <string name="temeratura_min">TEMPERATURA MIN:</string>
+    <string name="text_23">23</string>
+    <string name="cisnienie">CISNIENIE:</string>
+    <string name="text_1026_hpa">1026 hPa</string>
+    <string name="wilgotonosc">WILGOTNOSC:</string>
+    <string name="wiatr">WIATR:</string>
+    <string name="text_10_km_h">10 km/h</string>
+    <string name="zachmurzenie">ZACHMURZENIE:</string>
 </resources>
